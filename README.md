@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-**tanvirah16/tanvirah16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Tanvir.
 
 Here are some ideas to get you started:
 
